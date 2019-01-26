@@ -1,0 +1,324 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Scrapper Written as part of https://www.scrapehero.com/how-to-scrape-amazon-product-reviews-using-python/
+# Eddited by Royce, and the code bellow was recreated to include more responses, and pass the responses into google.cloud for the Natural language processing, and to build a model for the Chain Heuristics
+
+'''Some alterations I would Like to make:
+1) Make this work with Alibaba
+2) Be able to pull location data, and add it to a map
+3) Present the data on a webpage
+
+First run the virstual enviroment:
+PS .\Scripts\activate
+
+
+Running the flask server on the pc
+PS C:\path\to\app> $env:FLASK_APP = "aggrigator.py"
+PS frask run
+
+
+Current Features in the app:
+-The Alorithem can take the asins of amazon products
+-Then export the Reviews of the product into data.json
+-Then cocatonat the json into concat_data.json
+-Then run the data through google Cloud NLP (natural language pprocessing) and outputs the data to concat_data_gcnlg.json
+
+Current Implementations in Progress:
+-I am making a flask front end to push the algorithem into a server side hosable system.
+-The user interface interacs with the Javvascript/ HTMl, and does the backend pprocessing usng google cloud
+
+'''
+
+#To build the web scrapper the following dependacies were used to interact with the web development side of things, and then used to create an output
+from lxml import html
+from json import dump,loads
+from requests import get
+import json
+from re import sub
+from dateutil import parser as dateparser
+from time import sleep
+
+
+#Set up the enviroment for the UI, and UX
+from flask import Flask, request, render_template
+import os
+#To output information in a clear format I have opted to use pprint instead of the standard print function
+from pprint import pprint
+
+import urllib3
+import six
+import sys
+import argparse
+urllib3.disable_warnings()
+
+
+#Setting un the Flask framework to process requests
+app= Flask(__name__)
+
+#This function refreshes the page, and renders the index.html
+@app.route("/")
+def index():
+    return render_template('index.html')
+
+
+def ParseReviews(asin):
+    # This script has only been tested with Amazon.com: and only works with amazon.com because it involves the product requirements gathered from amazon.com
+    amazon_url  = 'http://www.amazon.com/dp/'+asin
+    # Add some recent user agent to prevent amazon from blocking the request 
+    # Find some chrome user agent strings  here https://udger.com/resources/ua-list/browser-detail?browser=Chrome
+    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
+    #Hcanged the following range(5) to range(20)
+    for i in range(5):
+        response = get(amazon_url, headers = headers, verify=False, timeout=30)
+        if response.status_code == 404:
+            return {"url": amazon_url, "error": "page not found"}
+        if response.status_code != 200:
+            continue
+        
+        # Removing the null bytes from the response.
+        cleaned_response = response.text.replace('\x00', '')
+        
+        parser = html.fromstring(cleaned_response)
+        XPATH_AGGREGATE = '//span[@id="acrCustomerReviewText"]'
+        XPATH_REVIEW_SECTION_1 = '//div[contains(@id,"reviews-summary")]'
+        XPATH_REVIEW_SECTION_2 = '//div[@data-hook="review"]'
+        XPATH_AGGREGATE_RATING = '//table[@id="histogramTable"]//tr'
+        XPATH_PRODUCT_NAME = '//h1//span[@id="productTitle"]//text()'
+        XPATH_PRODUCT_PRICE = '//span[@id="priceblock_ourprice"]/text()'
+
+        raw_product_price = parser.xpath(XPATH_PRODUCT_PRICE)
+        raw_product_name = parser.xpath(XPATH_PRODUCT_NAME)
+        total_ratings  = parser.xpath(XPATH_AGGREGATE_RATING)
+        reviews = parser.xpath(XPATH_REVIEW_SECTION_1)
+
+        product_price = ''.join(raw_product_price).replace(',', '')
+        product_name = ''.join(raw_product_name).strip()
+
+        if not reviews:
+            reviews = parser.xpath(XPATH_REVIEW_SECTION_2)
+        ratings_dict = {}
+        reviews_list = []
+
+        # Grabing the rating  section in product page
+        for ratings in total_ratings:
+            extracted_rating = ratings.xpath('./td//a//text()')
+            if extracted_rating:
+                rating_key = extracted_rating[0] 
+                raw_raing_value = extracted_rating[1]
+                rating_value = raw_raing_value
+                if rating_key:
+                    ratings_dict.update({rating_key: rating_value})
+        
+        # Parsing individual reviews
+        for review in reviews:
+            XPATH_RATING  = './/i[@data-hook="review-star-rating"]//text()'
+            XPATH_REVIEW_HEADER = './/a[@data-hook="review-title"]//text()'
+            XPATH_REVIEW_POSTED_DATE = './/span[@data-hook="review-date"]//text()'
+            XPATH_REVIEW_TEXT_1 = './/div[@data-hook="review-collapsed"]//text()'
+            XPATH_REVIEW_TEXT_2 = './/div//span[@data-action="columnbalancing-showfullreview"]/@data-columnbalancing-showfullreview'
+            XPATH_REVIEW_COMMENTS = './/span[@data-hook="review-comment"]//text()'
+            XPATH_AUTHOR = './/span[contains(@class,"profile-name")]//text()'
+            XPATH_REVIEW_TEXT_3 = './/div[contains(@id,"dpReviews")]/div/text()'
+            
+            raw_review_author = review.xpath(XPATH_AUTHOR)
+            raw_review_rating = review.xpath(XPATH_RATING)
+            raw_review_header = review.xpath(XPATH_REVIEW_HEADER)
+            raw_review_posted_date = review.xpath(XPATH_REVIEW_POSTED_DATE)
+            raw_review_text1 = review.xpath(XPATH_REVIEW_TEXT_1)
+            raw_review_text2 = review.xpath(XPATH_REVIEW_TEXT_2)
+            raw_review_text3 = review.xpath(XPATH_REVIEW_TEXT_3)
+
+            # Cleaning data
+            author = ' '.join(' '.join(raw_review_author).split())
+            review_rating = ''.join(raw_review_rating).replace('out of 5 stars', '')
+            review_header = ' '.join(' '.join(raw_review_header).split())
+
+            try:
+                review_posted_date = dateparser.parse(''.join(raw_review_posted_date)).strftime('%d %b %Y')
+            except:
+                review_posted_date = None
+            review_text = ' '.join(' '.join(raw_review_text1).split())
+
+            # Grabbing hidden comments if present
+            if raw_review_text2:
+                json_loaded_review_data = loads(raw_review_text2[0])
+                json_loaded_review_data_text = json_loaded_review_data['rest']
+                cleaned_json_loaded_review_data_text = re.sub('<.*?>', '', json_loaded_review_data_text)
+                full_review_text = review_text+cleaned_json_loaded_review_data_text
+            else:
+                full_review_text = review_text
+            if not raw_review_text1:
+                full_review_text = ' '.join(' '.join(raw_review_text3).split())
+
+            raw_review_comments = review.xpath(XPATH_REVIEW_COMMENTS)
+            review_comments = ''.join(raw_review_comments)
+            review_comments = sub('[A-Za-z]', '', review_comments).strip()
+            review_dict = {
+                                'review_comment_count': review_comments,
+                                'review_text': full_review_text,
+                                'review_posted_date': review_posted_date,
+                                'review_header': review_header,
+                                'review_rating': review_rating,
+                                'review_author': author
+
+                            }
+            reviews_list.append(review_dict)
+
+        data = {
+                    'ratings': ratings_dict,
+                    'reviews': reviews_list,
+                    'url': amazon_url,
+                    'name': product_name,
+                    'price': product_price
+                
+                }
+        return data
+
+    return {"error": "failed to process the page", "url": amazon_url}
+            
+
+def ReadAsin(moreAsins):
+    # Add your own ASINs here, the moreAsins function is called from the AddAsins, that is able to break down url links and then use those URLS to find product IDs that match the following format and add it to the asins
+    AsinList = ['B01ETPUQ6E', 'B017HW9DEW', 'B00U8KSIOM']+ moreAsins
+    #AsinList = []+ moreAsins
+    extracted_data = []
+    
+    for asin in AsinList:
+        print("Downloading and processing page http://www.amazon.com/dp/" + asin)
+        extracted_data.append(ParseReviews(asin))
+        sleep(5)
+    f = open('data.json', 'w')
+    dump(extracted_data, f, indent=4)
+    f.close()
+
+def AddAsins():
+    inserting = True
+    output = []
+    while inserting:
+        print("What is the link of the Amazon Product? :")
+        inputproducturl = input("product URL:   ")
+        if inputproducturl:
+            strat = inputproducturl.find('duct/')+4
+            end = inputproducturl.find('?')
+            outdrop = inputproducturl[strat+1:end]
+            output.append(outdrop)
+        else:
+            done = input("Are you done? Y/N")
+            if done == 'Y':
+                inserting = False
+
+    return output
+
+def concat():
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "D:\GCkey\keyfile.json"
+    with open('data.json', 'r') as f:
+        data = json.load(f)
+        
+    #pprint(data)
+
+    #Cleaning the concat document
+    f = open('concat_data.json', 'w')
+    f.close()
+
+    #Adding sentiment analysis to the json file
+    f = open('concat_data_gcnlg.json', 'w')
+    f.close()
+    
+    for items in data:
+        reviews = items['reviews']
+        output_string = ""
+        for review in reviews:
+            review_text = review['review_text']
+            output_string += review_text
+        gcNLG(output_string)
+
+
+def gcNLG(intext):
+    pprint(intext)
+
+
+    with open("concat_data.json", 'a') as myfile:
+        myfile.write(intext)
+        for i in range(6):
+            myfile.write("\n")
+
+    #following line of code calls the sentement analysis from google cloud platform
+    entity_sentiment_text(intext)
+
+def entity_sentiment_text(text):
+    """Detects entity sentiment in the provided text."""
+    from google.cloud import language
+    from google.oauth2 import service_account
+    from google.cloud.language import enums
+    from google.cloud.language import types
+
+    client = language.LanguageServiceClient()
+
+    if isinstance(text, six.binary_type):
+        text = text.decode('utf-8')
+
+    document = types.Document(
+        content=text.encode('utf-8'),
+        type=enums.Document.Type.PLAIN_TEXT)
+
+    # Detect and send native Python encoding to receive correct word offsets.
+    encoding = enums.EncodingType.UTF32
+    if sys.maxunicode == 65535:
+        encoding = enums.EncodingType.UTF16
+
+    #Below is the request poster for the google.cloud.language. I have commented it oiut so that i can jix all the other parts without wating the API calls
+    result = client.analyze_entity_sentiment(document, encoding)
+
+    #Bellow is the pretty print of the data analysis breakdown for each of the responses in the sentement analysis
+    pprint(text)
+    entities_list = []
+    def results_gen(results):
+        document = []
+        for entity in result.entities:
+            print('Mentions: ')
+            print(u'Name: "{}"'.format(entity.name))
+            mention_vectors = []
+            for mention in entity.mentions:
+                print(u'  Begin Offset : {}'.format(mention.text.begin_offset))
+                print(u'  Content : {}'.format(mention.text.content))
+                print(u'  Magnitude : {}'.format(mention.sentiment.magnitude))
+                print(u'  Sentiment : {}'.format(mention.sentiment.score))
+                print(u'  Type : {}'.format(mention.type))
+                mention_vectors += [{
+                    'Begin Offset': str(mention.text.begin_offset),
+                    'Content': str(mention.text.content),
+                    'Magnitude': str(mention.sentiment.magnitude),
+                    'Sentiment': str(mention.sentiment.score),
+                    'Type': str(mention.type)
+                }]
+            print(u'Salience: {}'.format(entity.salience))
+            print(u'Sentiment: {}\n'.format(entity.sentiment))
+
+
+            document_entity = [{
+                'Mentions_name': str(entity.name),
+                "Mention_vectors": mention_vectors,
+                'Salience': str(entity.salience),
+                'Sentiment': str(entity.sentiment)
+            }]
+            document += document_entity
+
+        return document
+
+            
+
+    #Create a json file and add to that
+    entities_list += results_gen(result)
+    data = {
+
+        'Text': text,
+        'entities': entities_list
+    }
+
+    f = open('concat_data_gcnlg.json', 'a')
+    dump(data, f, indent=4)
+    f.close()
+
+if __name__ == '__main__':
+    #ReadAsin(AddAsins())
+    concat()
