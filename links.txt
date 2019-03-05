@@ -1,0 +1,7 @@
+Some Important links for the project:
+https://github.com/RoyceLeonD/5_star
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+https://packaging.python.org/guides/installing-using-pip-and-virtualenv/
+https://cloud.google.com/docs/
+http://flask.pocoo.org/docs/1.0/quickstart/#quickstart
+https://docs.python.org/3/

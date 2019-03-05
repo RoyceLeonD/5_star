@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>5-Star Loader Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+    <script>
+        $(function(){
+
+            $.getJSON('http://127.0.0.1:5000/static/data_file.json', function(data) {
+                $.each(data.ratings, function(i, f) {
+                    var ratings_row = "<tr>"+"<td>"+f["5 star"]+"</td>"+"<td>"+f["4 star"]+ "</td>"+"<td>"+f["3 star"]+"</td>"+"<td>"+f["2 star"]+"</td>"+"<td>"+ f["1 star"]+ "</td>"+ "</tr>"
+                    $(ratings_row).appendTo("#ratingdata tbody");
+                });
+            });
+        });
+
+        $(function(){
+
+            $.getJSON("http://127.0.0.1:5000/static/data_file.json", function(data) {
+                $.each(data.reviews, function(i, f) {
+                    var reviews_row = "<tr>"+"<td>" +f.review_author+"</td>"+"<td>"+f.review_posted_date+ "</td>"+ "<td>" +f.review_header+"</td>"+"<td>"+f.review_text+ "</td>"+ "<td>" +f.review_rating+"</td>"
+                    $(reviews_row).appendTo("#reviewdata tbody");
+                });
+            });
+        });
+
+        $(function(){
+
+            $.getJSON("http://127.0.0.1:5000/static/concat_data_gcnlg.json", function(data) {
+                $.each(data["entities"], function(i,f) {
+                    var entitie_row = "<tr>"+"<td>"+f.Mentions_name + "</td>"+ "<td>"+f.Salience+ "</td>"+"<td>"+f.Sentiment+ "</td>" +"</tr>"
+                    $(entitie_row).appendTo("#entitiedata tbody");
+                });
+            });
+        });
+    
+    </script>
+</head>
+<body>
+    <center><img aline="middle" src="/static/copper-loader.gif"></center>
+    <center>
+    <div class="wrapper">
+        <div class= "ratings">
+            <table id="ratingdata" border="2">
+                <thead>
+                    <th>5 Star</th>
+                    <th>4 Star</th>
+                    <th>3 Star</th>
+                    <th>2 Star</th>
+                    <th>1 Star</th>
+                </thead>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+
+        <div class= "reviews">
+            <table id="reviewdata" border="2">
+                <thead>
+                    <th>Author</th>
+                    <th>Date</th>
+                    <th>Title</th>
+                    <th>Text</th>
+                    <th>Rating</th>
+                </thead>
+                <tbody>
+                        
+                </tbody>
+            </table>
+        </div>
+
+        <div class= "reviews">
+            <table id="entitiedata" border="2">
+                <thead>
+                    <th>Entitie</th>
+                    <th>Salience</th>
+                    <th>Sentiment</th>
+                </thead>
+                <tbody>
+                            
+                </tbody>
+            </table>
+        </div>
+    </div>
+    </center>
+</body>
+</html> 

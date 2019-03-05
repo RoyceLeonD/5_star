@@ -1,1 +1,29 @@
 # chain_analysis
+'''Some alterations I would Like to make:
+1) Make this work with Alibaba
+2) Be able to pull location data, and add it to a map
+3) Present the data on a webpage
+
+First set up the goolge cloud enviroment variables, for me (it is located in "D:\GCkey\keyfile.json"):
+PS $env:GOOGLE_APPLICATION_CREDENTIALS= "D:\GCkey\keyfile.json"
+
+Then run the virstual enviroment:
+PS .\Scripts\activate
+
+
+Running the flask server on the pc
+PS C:\path\to\app> $env:FLASK_APP = "aggrigator.py"
+PS frask run
+
+
+Current Features in the app:
+-The Alorithem can take the asins of amazon products
+-Then export the Reviews of the product into data.json
+-Then cocatonat the json into concat_data.json
+-Then run the data through google Cloud NLP (natural language pprocessing) and outputs the data to concat_data_gcnlg.json
+
+Current Implementations in Progress:
+-I am making a flask front end to push the algorithem into a server side hosable system.
+-The user interface interacs with the Javvascript/ HTMl, and does the backend pprocessing usng google cloud
+
+'''

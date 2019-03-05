@@ -1,0 +1,3113 @@
+{
+    "Text": "I've had some time to kick my phone around (figuratively and literally), and I'm really impressed with this phone. It's value priced, but still very functional. I switched from a Samsung Galaxy SIII, and I feel that this was definitely an upgrade. While the Moto G3 has less memory (8GB) and storage (both internally, and it only supports up to 32GB SDHC micro card), the better processor makes a huge difference. I don't play games, but I do still run a fair number of productivity apps (the biggest being Polaris Office and TeamViewer) and they benefit greatly from the quad-core 1.4 GHz Cortex-A53 CPUs performance. The SIII would always hang up when running bigger applications, and would always freeze up when pulling up the SwiftKey keyboard. Some apps were almost unusable on the SIII because of these stutters and freezing (ProCapture was the biggest problem). I'm really impressed at how good the camera sensor is. The color, contrast, and brightness of the screen are also incredible. I've had better luck with 4G data, though I do notice a little less speed on Wifi after losing 5 gHz connectivity. The audio on the phone is an improvement, with the two larger speakers on the front of the device. Call clarity has been about as good as the SIII, in my tests. The phone construction is very solid, and seems very rugged in general. I was very happy with the upgrade, from the Galaxy SIII. For my purposes, it's a great phone. I like that it's water resistant, and it performs very well. My girlfriend ended up upgrading to the same phone, from an HTC Desire 816, and she's very happy with the performance boost. It's definitely NOT a flagship phone, and it's only suitable for lower-end or older games. This is not a power user phone, by any means. The smaller storage is probably the biggest limitation. While it hasn't greatly affected me, as I only have a few big apps, but it's definitely the most profound limitation of the phone. If you don't need the power and space of a flagship phone, but still want a very high-quality all-weather handset, I think this is an excellent option. The price jumps around, so if you wait around for a small discount, this is probably one of the better deals on the current phone market. It suits my needs very well, and - having survived being caught in a few big downpours - has been worth every penny. Sept. 2016 Update: For a few weeks, I was having problems with the SD Micro card becoming unmounted, or write problems on the SD Micro card. I assumed it was loosening up in the case (a problem I had with an older phone). Eventually it would refuse to re-mount, despite all attempts. It turned out the phone was having specific problems with the Samsung 32GB EVO Plus Class 10 Micro SDHC, that several other Moto G3 users experienced. I replaced it with a Class 6 Kingston card, and it's been working flawlessly ever since, without any noticeable decrease in read/write speeds.This phone is one of the best I have had from Virgin Mobile, and know it would be better with T-Mobile or another GSM carrier with the extra specs those add. The camera is very nice for such a cheap phone, 13mp in the back, 5mp in the front. Works well in relatively low lighting and doesn't begin to look grainy until it's obviously much too dark, such as outside in the night with a fire for just light like the stone ages. Anyway, it's not the best camera, but definitely better than the LG Volt and LG G Stylo I had had before this one. The screen isn't brilliantly bright and crisp, but I promise it doesn't look horribly. The screen is big, but not too big, more comfortable than the LG G Stylo in my personal opinion, but if you like \"Phablets\", this is a big small, but you'd probably get used to it. The ram is only 1gb in the Virgin Mobile edition, and only 4.5gb of internal storage available to the user, even though it advertises 8gb. The other phone with the GSM carriers have 2gb of ram, and 16gb or storage with only 10gb or so left for the users accessibility. It comes with Lollipop, although I am sure the Marshmellow update wouldn't be long to hit considering it did hit the LG G Stylo quickly, and this phone is the 2015 successor of the Moto G lineups. The phone is able to be rooted, although I do not advise for it will void your warranty with Motorola and possibly Virgin Mobile, so you should know what you are doing. However, this should be brought up because Virgin Mobile carries a variety of cheap phones, but they are mostly LG. LG should not be rooted because they end up killing over and are touchy. Motorola is more laid back, and it should be noted so people know what they should and shouldn't if they are not experienced and want to try new things. Yes, this phone is water resistant, but not water proof. You can not swim with it and epect to use it under water. This is purely for accidents only. You can use this near water and if something splashes on it, it will be fine. You must remember to seal the back near the camera and the edges, or it will completely useless and you will lose your phone to water damage. The biggest con is the bit of crashes I have experienced on such little use. The play store crashes immediately when trying to type, and many other things end up crashing. This may not be a problem to all, but to me it was and should be noted. This does have an LED to those who care about that little helpful feature, however it is not able to be used for anything other than battery purposes, so you don't get anything very helpful from it. There is the feature Moto Display which shows your notifications on the screen in a specific way and there are settings for you to mess with. Over all this phone is a very great phone for the price and something that people can greatly appreciate for a low budget.This phone is the best virgin mobile phone I have had by far.. I paid only $54.00 for it refurbished on Amazon. Let me start by saying I have tried many. It got to the point where I was so sick of buying hundred plus dollar phones that would crap out by 6 months glitching, memory problems, data problems, etcetera. I've tried all of the LGs they are okay but very hit-and-miss. My last LG experience with a LG Stylo which I thought was going to be a great phone until it would randomly, not receive text messages from important people. I had read about that in many of the reviews on that phone so I took a chance and to my surprise it happened to me too. It may not sound like a huge deal to some but it can really leave you in a predicament. That was the last straw. I have only had this phone a couple of months but so far I have not been disappointed. Aesthetically it's nothing fancy. But the camera is really nice phone, calls are really decent and browsing the web and multiple apps very fast. this is a nice size phone not too big like the stylo not too small at all. This is very colorful compared to any of the LG's I've ever had. Way better then the HTC phones I've owned as well. This phone is an excellent deal and the best Bang for your buck.",
+    "entities": [
+        {
+            "Mentions_name": "Samsung Galaxy SIII",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "179",
+                    "Content": "Samsung Galaxy SIII",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "623",
+                    "Content": "SIII",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "-0.800000011920929",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "787",
+                    "Content": "SIII",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "1252",
+                    "Content": "SIII",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "1387",
+                    "Content": "Galaxy SIII",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "1430",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.07945135235786438",
+            "Sentiment": "magnitude: 3.4000000953674316\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "upgrade",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "239",
+                    "Content": "upgrade",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.043946534395217896",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "LG G",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3434",
+                    "Content": "LG G",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4126",
+                    "Content": "LG G",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4487",
+                    "Content": "LG",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4491",
+                    "Content": "LG",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "6181",
+                    "Content": "LG",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "6202",
+                    "Content": "LG",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "6916",
+                    "Content": "LG",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.03462456166744232",
+            "Sentiment": "magnitude: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "108",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.03370226174592972",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "30",
+                    "Content": "phone",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "-0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.03370226174592972",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: -0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "Moto G3",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "258",
+                    "Content": "Moto G3",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "2762",
+                    "Content": "Moto G3",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.031301405280828476",
+            "Sentiment": "magnitude: 0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "limitation",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1772",
+                    "Content": "storage",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "1804",
+                    "Content": "limitation",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.025534359738230705",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "limitation",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1922",
+                    "Content": "limitation",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.024011259898543358",
+            "Sentiment": "magnitude: 1.100000023841858\nscore: 0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "girlfriend",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1501",
+                    "Content": "girlfriend",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.022985905408859253",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "productivity apps",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "470",
+                    "Content": "productivity apps",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.022169848904013634",
+            "Sentiment": "magnitude: 1.399999976158142\nscore: 0.699999988079071\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2936",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "2945",
+                    "Content": "one",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "0.6000000238418579",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.02118079550564289",
+            "Sentiment": "magnitude: 0.6000000238418579\nscore: 0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "ProCapture",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "832",
+                    "Content": "ProCapture",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "-0.800000011920929",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "859",
+                    "Content": "problem",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "-0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.02034195140004158",
+            "Sentiment": "magnitude: 1.2000000476837158\nscore: -0.6000000238418579\n"
+        },
+        {
+            "Mentions_name": "Stylo",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3439",
+                    "Content": "Stylo",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4131",
+                    "Content": "Stylo",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "6205",
+                    "Content": "Stylo",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.01935885287821293",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "price",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2103",
+                    "Content": "price",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "-0.699999988079071",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "2184",
+                    "Content": "one",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.018352586776018143",
+            "Sentiment": "magnitude: 1.5\n"
+        },
+        {
+            "Mentions_name": "Virgin Mobile",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2977",
+                    "Content": "Virgin Mobile",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "3767",
+                    "Content": "Virgin Mobile",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4321",
+                    "Content": "Virgin Mobile",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4418",
+                    "Content": "Virgin Mobile",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.017527544870972633",
+            "Sentiment": "magnitude: 0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "handset",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2053",
+                    "Content": "handset",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "2091",
+                    "Content": "option",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "0.699999988079071",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.01613619551062584",
+            "Sentiment": "magnitude: 2.5999999046325684\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "mobile phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5799",
+                    "Content": "phone",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "0.4000000059604645",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "5824",
+                    "Content": "mobile phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.014558399096131325",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "improvement",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1114",
+                    "Content": "audio",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "1139",
+                    "Content": "improvement",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.012702743522822857",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "camera",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3093",
+                    "Content": "camera",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "3155",
+                    "Content": "5mp",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.01217755675315857",
+            "Sentiment": "magnitude: 1.0\nscore: 0.5\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4210",
+                    "Content": "phone",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.011406436562538147",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: -0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6992",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "7014",
+                    "Content": "deal",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.010165702551603317",
+            "Sentiment": "magnitude: 1.899999976158142\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "storage",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "292",
+                    "Content": "storage",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.009252237156033516",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "problem",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5277",
+                    "Content": "problem",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "-0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.008942421525716782",
+            "Sentiment": "magnitude: 0.5\nscore: -0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "Motorola",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4299",
+                    "Content": "Motorola",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "4564",
+                    "Content": "Motorola",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.00881977379322052",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "micro card",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "355",
+                    "Content": "micro card",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.008728694170713425",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "camera sensor",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "906",
+                    "Content": "camera sensor",
+                    "Magnitude": "0.5",
+                    "Sentiment": "0.5",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007765188347548246",
+            "Sentiment": "magnitude: 0.5\nscore: 0.5\n"
+        },
+        {
+            "Mentions_name": "power user phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1728",
+                    "Content": "power user phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007651349995285273",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "screen",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3563",
+                    "Content": "screen",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007444426417350769",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "memory",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "275",
+                    "Content": "memory",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007414011750370264",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "processor",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "379",
+                    "Content": "processor",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "0.699999988079071",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007414011750370264",
+            "Sentiment": "magnitude: 0.699999988079071\nscore: 0.699999988079071\n"
+        },
+        {
+            "Mentions_name": "8GB",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "283",
+                    "Content": "8GB",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007414011750370264",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "performance",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "606",
+                    "Content": "performance",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007393701933324337",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "size phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6811",
+                    "Content": "size phone",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.006655561272054911",
+            "Sentiment": "magnitude: 1.7000000476837158\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "screen",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3476",
+                    "Content": "screen",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.006585605908185244",
+            "Sentiment": "magnitude: 0.5\nscore: -0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "value",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "120",
+                    "Content": "value",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.006568475626409054",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "keyboard",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "739",
+                    "Content": "keyboard",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.006480339914560318",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1127",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.006023665424436331",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1543",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0059915040619671345",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "flagship phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1645",
+                    "Content": "flagship phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005987293552607298",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "camera",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6693",
+                    "Content": "camera",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "6715",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005843990948051214",
+            "Sentiment": "magnitude: 1.899999976158142\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "dollar phones",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6011",
+                    "Content": "dollar phones",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "-0.6000000238418579",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005635379813611507",
+            "Sentiment": "magnitude: 1.600000023841858\nscore: -0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "T-Mobile",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3025",
+                    "Content": "T-Mobile",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.005553063470870256",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "applications",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "669",
+                    "Content": "applications",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0053886715322732925",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "ram",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3744",
+                    "Content": "ram",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005255792755633593",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "difference",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "402",
+                    "Content": "difference",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005155605264008045",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4155",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0044721090234816074",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "chance",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6402",
+                    "Content": "chance",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.00426146388053894",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "anything",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5499",
+                    "Content": "anything",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004193353932350874",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2656",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "-0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0040668100118637085",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3130",
+                    "Content": "phone",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004063359461724758",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1940",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004031321499496698",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "flagship phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1990",
+                    "Content": "flagship phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004029014613479376",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2568",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004020741209387779",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "water",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4889",
+                    "Content": "water",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0040107243694365025",
+            "Sentiment": "magnitude: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "apps",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "754",
+                    "Content": "apps",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "-0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0038499378133565187",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "Polaris Office",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "507",
+                    "Content": "Polaris Office",
+                    "Magnitude": "0.5",
+                    "Sentiment": "0.5",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.003839345881715417",
+            "Sentiment": "magnitude: 0.5\nscore: 0.5\n"
+        },
+        {
+            "Mentions_name": "TeamViewer",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "526",
+                    "Content": "TeamViewer",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.003839345881715417",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "Cortex-A53 CPUs",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "590",
+                    "Content": "Cortex-A53 CPUs",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "0.6000000238418579",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.003839345881715417",
+            "Sentiment": "magnitude: 0.6000000238418579\nscore: 0.6000000238418579\n"
+        },
+        {
+            "Mentions_name": "clarity",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1214",
+                    "Content": "clarity",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0038328003138303757",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "SwiftKey",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "730",
+                    "Content": "SwiftKey",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.003830741858109832",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "number",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "460",
+                    "Content": "number",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0037338968832045794",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "straw",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6557",
+                    "Content": "straw",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0037008945364505053",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "games",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "427",
+                    "Content": "games",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "0.699999988079071",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003622650634497404",
+            "Sentiment": "magnitude: 0.699999988079071\nscore: 0.699999988079071\n"
+        },
+        {
+            "Mentions_name": "water",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1454",
+                    "Content": "water",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0036167080979794264",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3889",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003584838705137372",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5708",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003568653017282486",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "Moto Display",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5551",
+                    "Content": "Moto Display",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0034313008654862642",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "something",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5732",
+                    "Content": "something",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0033585834316909313",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "LGs",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6132",
+                    "Content": "LGs",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.003344024298712611",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "problems",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2464",
+                    "Content": "problems",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0032811483833938837",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "screen",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "967",
+                    "Content": "screen",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003270633751526475",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "32GB SDHC",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "345",
+                    "Content": "32GB SDHC",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "2708",
+                    "Content": "32GB",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0032580015249550343",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone construction",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1275",
+                    "Content": "phone construction",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0029208066407591105",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "point",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5962",
+                    "Content": "point",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0028761858120560646",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5686",
+                    "Content": "phone",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "0.699999988079071",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002789990743622184",
+            "Sentiment": "magnitude: 0.699999988079071\nscore: 0.699999988079071\n"
+        },
+        {
+            "Mentions_name": "4G data",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1021",
+                    "Content": "4G data",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002773801563307643",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "speed",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1063",
+                    "Content": "speed",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002773801563307643",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "front",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1188",
+                    "Content": "front",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0027705493848770857",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "upgrade",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1369",
+                    "Content": "upgrade",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0027623374480754137",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "purposes",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1407",
+                    "Content": "purposes",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0027599926106631756",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "games",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1707",
+                    "Content": "games",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0027538056019693613",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "problems",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2682",
+                    "Content": "problems",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "-0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002657961566001177",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: -0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "problems",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2403",
+                    "Content": "problems",
+                    "Magnitude": "0.5",
+                    "Sentiment": "-0.5",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0026291096583008766",
+            "Sentiment": "magnitude: 0.5\nscore: -0.5\n"
+        },
+        {
+            "Mentions_name": "problem",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2540",
+                    "Content": "problem",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "-0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002627840731292963",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: -0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "contrast",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "935",
+                    "Content": "contrast",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0024393927305936813",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "brightness",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "949",
+                    "Content": "brightness",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "0.6000000238418579",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0024393927305936813",
+            "Sentiment": "magnitude: 0.6000000238418579\nscore: 0.6000000238418579\n"
+        },
+        {
+            "Mentions_name": "luck",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1011",
+                    "Content": "luck",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002436230890452862",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "connectivity",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1096",
+                    "Content": "connectivity",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002436230890452862",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "speakers",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1172",
+                    "Content": "speakers",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0024333742912858725",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "device",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1201",
+                    "Content": "device",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0024333742912858725",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "tests",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1264",
+                    "Content": "tests",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002430769382044673",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "performance boost",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1604",
+                    "Content": "performance boost",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002420369302853942",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "means",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1753",
+                    "Content": "means",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002417057752609253",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6251",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002404147293418646",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "color",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "928",
+                    "Content": "color",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0023800681810826063",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "camera",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3383",
+                    "Content": "camera",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "-0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002330645453184843",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "best",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2956",
+                    "Content": "best",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002201196039095521",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "card",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2827",
+                    "Content": "card",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002201196039095521",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "card",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2430",
+                    "Content": "card",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0021782401017844677",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "card",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2489",
+                    "Content": "card",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0021782401017844677",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "apps",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1878",
+                    "Content": "apps",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0021562117617577314",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "storage",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3817",
+                    "Content": "storage",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002135856542736292",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "storage",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3946",
+                    "Content": "storage",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002135115908458829",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "update",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4068",
+                    "Content": "update",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002107714070007205",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "deals",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2202",
+                    "Content": "deals",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002030167728662491",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "user",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3842",
+                    "Content": "user",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002014776924625039",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6384",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001949742203578353",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6585",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0019485319498926401",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phones",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6960",
+                    "Content": "phones",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0019466429948806763",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "successor",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4173",
+                    "Content": "successor",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0019208169542253017",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "GSM carrier",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3045",
+                    "Content": "GSM carrier",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018691595178097486",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Class",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2810",
+                    "Content": "Class",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018691595178097486",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "front",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3166",
+                    "Content": "front",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018683795351535082",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "back",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3149",
+                    "Content": "back",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018683795351535082",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Update",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2365",
+                    "Content": "Update",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018496646080166101",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "data problems",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6085",
+                    "Content": "data problems",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "-0.6000000238418579",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018219874473288655",
+            "Sentiment": "magnitude: 0.6000000238418579\nscore: -0.6000000238418579\n"
+        },
+        {
+            "Mentions_name": "memory problems",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6068",
+                    "Content": "memory problems",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "-0.6000000238418579",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0018219874473288655",
+            "Sentiment": "magnitude: 0.6000000238418579\nscore: -0.6000000238418579\n"
+        },
+        {
+            "Mentions_name": "GSM carriers",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3904",
+                    "Content": "GSM carriers",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0017102542333304882",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "ram",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3929",
+                    "Content": "ram",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0017102542333304882",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "decrease",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2901",
+                    "Content": "decrease",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016416343860328197",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "specs",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3072",
+                    "Content": "specs",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016416343860328197",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Works",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3173",
+                    "Content": "Works",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001640286878682673",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "lighting",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3202",
+                    "Content": "lighting",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001640286878682673",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "fire",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3316",
+                    "Content": "fire",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001640286878682673",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "ages",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3351",
+                    "Content": "ages",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001640286878682673",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "users",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2770",
+                    "Content": "users",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016387797659263015",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "space",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1979",
+                    "Content": "space",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001627070363610983",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: 0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "phone market",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2223",
+                    "Content": "phone market",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016261801356449723",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "discount",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2157",
+                    "Content": "discount",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016261801356449723",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "needs",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2249",
+                    "Content": "needs",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016253282083198428",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "penny",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2347",
+                    "Content": "penny",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016253282083198428",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "downpours",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2314",
+                    "Content": "downpours",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016253282083198428",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "case",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2532",
+                    "Content": "case",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001623727148398757",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "attempts",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2628",
+                    "Content": "attempts",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0016229727771133184",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "power",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1969",
+                    "Content": "power",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015785670839250088",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "screen",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5602",
+                    "Content": "screen",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015108796069398522",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "opinion",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3647",
+                    "Content": "opinion",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015031215734779835",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "edition",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3781",
+                    "Content": "edition",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001502585131675005",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "users accessibility",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3988",
+                    "Content": "users accessibility",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015020640566945076",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "10gb",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3964",
+                    "Content": "10gb",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015020640566945076",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "lineups",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4197",
+                    "Content": "lineups",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015015574172139168",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "warranty",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4285",
+                    "Content": "warranty",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015010643983259797",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4727",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0014747466193512082",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Wifi",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1072",
+                    "Content": "Wifi",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0014394880272448063",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "back",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4975",
+                    "Content": "back",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0014385039685294032",
+            "Sentiment": "magnitude: 1.2000000476837158\nscore: -0.6000000238418579\n"
+        },
+        {
+            "Mentions_name": "people",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4618",
+                    "Content": "people",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001435685670003295",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "all",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6121",
+                    "Content": "all",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0014320267364382744",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "HTC Desire 816",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1558",
+                    "Content": "HTC Desire 816",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0014301133342087269",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "people",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5747",
+                    "Content": "people",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "0.4000000059604645",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0014063742710277438",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "SD Micro",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2421",
+                    "Content": "SD Micro",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "2480",
+                    "Content": "SD Micro",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0013535100733861327",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5064",
+                    "Content": "phone",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0013514424208551645",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "feature",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5397",
+                    "Content": "feature",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012832494685426354",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "anything",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5444",
+                    "Content": "anything",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012832494685426354",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "battery purposes",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5464",
+                    "Content": "battery purposes",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012832494685426354",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "way",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5623",
+                    "Content": "way",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012829366605728865",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "price",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5722",
+                    "Content": "price",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012826299061998725",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "LG G Stylo",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3621",
+                    "Content": "LG G Stylo",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0012624150840565562",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "many",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5942",
+                    "Content": "many",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012582570780068636",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phones",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4459",
+                    "Content": "phones",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0012271507875993848",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Moto G",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4190",
+                    "Content": "Moto G",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0011895947391167283",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "miss",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6167",
+                    "Content": "miss",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0011254511773586273",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "experience",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6184",
+                    "Content": "experience",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001125205890275538",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "stylo",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6843",
+                    "Content": "stylo",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0011175844119861722",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "LED",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5349",
+                    "Content": "LED",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0011132294312119484",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Samsung",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2700",
+                    "Content": "Samsung",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0011048319283872843",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "EVO Plus Class 10 Micro SDHC",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2713",
+                    "Content": "EVO Plus Class 10 Micro SDHC",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0011048319283872843",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "settings",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5641",
+                    "Content": "settings",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0010993366595357656",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "apps",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6780",
+                    "Content": "apps",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0010544175747781992",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: 0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "people",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6323",
+                    "Content": "people",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0009829221526160836",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "many",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6356",
+                    "Content": "many",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0009827115572988987",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "deal",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6480",
+                    "Content": "deal",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.000982504803687334",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "some",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6488",
+                    "Content": "some",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.000982504803687334",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "any",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6905",
+                    "Content": "any",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.000981333665549755",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Phablets",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3673",
+                    "Content": "Phablets",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0009799979161471128",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Kingston",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2818",
+                    "Content": "Kingston",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0009699015063233674",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "LG Volt",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3422",
+                    "Content": "LG Volt",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0009687264100648463",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "Way",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6936",
+                    "Content": "Way",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0008948104805313051",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "Lollipop",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4023",
+                    "Content": "Lollipop",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0008871281170286238",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Marshmellow",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4056",
+                    "Content": "Marshmellow",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0008871281170286238",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "text messages",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6294",
+                    "Content": "text messages",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0008687984081916511",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "things",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4709",
+                    "Content": "things",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0008674254058860242",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "epect",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4803",
+                    "Content": "epect",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0008216921705752611",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.4000000059604645\n"
+        },
+        {
+            "Mentions_name": "reviews",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6368",
+                    "Content": "reviews",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007871150155551732",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "surprise",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6419",
+                    "Content": "surprise",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007871150155551732",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "predicament",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6526",
+                    "Content": "predicament",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007869493565522134",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "web",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6763",
+                    "Content": "web",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007863138453103602",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "buck",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "7046",
+                    "Content": "buck",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.000785717973485589",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Bang",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "7032",
+                    "Content": "Bang",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.000785717973485589",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "calls",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6722",
+                    "Content": "calls",
+                    "Magnitude": "0.5",
+                    "Sentiment": "0.5",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007671827333979309",
+            "Sentiment": "magnitude: 0.5\nscore: 0.5\n"
+        },
+        {
+            "Mentions_name": "water",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4825",
+                    "Content": "water",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007389342645183206",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "camera",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4989",
+                    "Content": "camera",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.000702761928550899",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "all",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5288",
+                    "Content": "all",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0007022153586149216",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Amazon",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5898",
+                    "Content": "Amazon",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0006653457530774176",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "water proof",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4761",
+                    "Content": "water proof",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0006331242038868368",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "bit",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5110",
+                    "Content": "bit",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "-0.699999988079071",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0006322477711364627",
+            "Sentiment": "magnitude: 0.699999988079071\nscore: -0.699999988079071\n"
+        },
+        {
+            "Mentions_name": "things",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5235",
+                    "Content": "things",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0006132363923825324",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: -0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "con",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5099",
+                    "Content": "con",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0005944884032942355",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: -0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "notifications",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5581",
+                    "Content": "notifications",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0005866210558451712",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "something",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4902",
+                    "Content": "something",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "-0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0005630297237075865",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: -0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "crashes",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5117",
+                    "Content": "crashes",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0005627282662317157",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "play store crashes",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5168",
+                    "Content": "play store crashes",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0005625823978334665",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "HTC",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "6956",
+                    "Content": "HTC",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.000528623117133975",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "variety",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4442",
+                    "Content": "variety",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0004953453317284584",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "accidents",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "4851",
+                    "Content": "accidents",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0004946099361404777",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "water damage",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5073",
+                    "Content": "water damage",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0004943392123095691",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "edges",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5004",
+                    "Content": "edges",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0004943392123095691",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "use",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "5159",
+                    "Content": "use",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0004942083032801747",
+            "Sentiment": ""
+        }
+    ]
+}

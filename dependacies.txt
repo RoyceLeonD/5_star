@@ -1,1 +1,1 @@
-pip install lxml,requests, pprint, flask, rldlib3, six, argparse
+pip install lxml,requests, pprint, flask, rldlib3, six, argparse, google-cloud-storage
