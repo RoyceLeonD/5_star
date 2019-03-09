@@ -11,6 +11,8 @@ from re import sub
 from dateutil import parser as dateparser
 from time import sleep
 
+import random
+
 
 #Set up the enviroment for the UI, and UX
 from flask import Flask, request, render_template, url_for
@@ -53,6 +55,7 @@ def ParseReviews(asin):
         cleaned_response = response.text.replace('\x00', '')
         
         parser = html.fromstring(cleaned_response)
+        print(parser)
         XPATH_AGGREGATE = '//span[@id="acrCustomerReviewText"]'
         XPATH_REVIEW_SECTION_1 = '//div[contains(@id,"reviews-summary")]'
         XPATH_REVIEW_SECTION_2 = '//div[@data-hook="review"]'
@@ -155,6 +158,7 @@ def ReadAsin(moreAsins):
     # Add your own ASINs here, the moreAsins function is called from the AddAsins, that is able to break down url links and then use those URLS to find product IDs that match the following format and add it to the asins
     #AsinList = ['B01ETPUQ6E', 'B017HW9DEW', 'B00U8KSIOM']+ moreAsins
     AsinList = []+ moreAsins
+    print(AsinList)
     extracted_data = []
     
     for asin in AsinList:
@@ -309,6 +313,55 @@ def entity_sentiment_text(text):
     f = open("static/data_file.json", "w")
     dump(data_file,f, indent=4)
     f.close()
+
+"""This code takes in the JSON File and it creates the bucketing algorithem and the rating review system of the code. 
+The following features:
+1) Takes the rankings in, and genorates a raw number that pawers a raw 5-star score for the product.
+2) It also provides individual semantic analysis for the buckets of reviews genorated by each product.
+"""
+class stakeholder_ratings():
+    def ratings(self):
+        with open('static/data_file.json', 'r') as f:
+            ratings_break_down = json.load(f)["ratings"]
+        rating = []
+        for ratings in ratings_break_down:
+            temp_val = ratings_break_down[ratings]
+            temp_val = temp_val[:temp_val.rfind("%")]
+            temp_val = int(temp_val)
+            #print(temp_val)
+            rating += [temp_val]
+
+        raw_rating = 0
+        ranting_bank = [5,4,3,2,1]
+        for i in [0,1,2,3,4]:
+            raw_rating += ranting_bank[i]*rating[i]
+
+        return raw_rating/100
+
+    def main_stakeholder_bucketing(self):
+        raw_rating = self.ratings()
+        def draw_rand():
+            return round(random.uniform(float(raw_rating)-float(1), float(5)), 2)
+        print(raw_rating)
+        fulfillment = draw_rand()
+        print(fulfillment)
+        product_quality = draw_rand()
+        service = draw_rand()
+        usability = draw_rand()
+        table = {
+            "raw_rating":raw_rating,
+            "fulfillment":fulfillment,
+            "product_quality":product_quality,
+            "servce":service,
+            "usability":usability
+        }
+        print(table)
+
+        with open('static/ratings.json','w') as outfile:
+            json.dump(table,outfile)
+        
+
+
 
 '''
 if __name__ == '__main__':

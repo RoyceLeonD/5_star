@@ -5,6 +5,7 @@
 from services import *
 
 #Setting un the Flask framework to process requests
+
 app= Flask(__name__, static_url_path='/static')
 
 #This function refreshes the page, and renders the index.html
@@ -17,6 +18,7 @@ def index_post():
     prod_ID_ASINS = request.form['text']
     ReadAsin(AddAsins(prod_ID_ASINS))
     concat()
+    stakeholder_ratings().main_stakeholder_bucketing()
     if prod_ID_ASINS:
         return render_template('loader.html')
 
@@ -35,3 +37,7 @@ def concat_data_gcnlg():
 @app.route("/concat_data")
 def concat_data():
     return "<a href=%s>file</a>" % url_for('static', filename='concat_data.json')
+
+@app.route("/ratings_data")
+def ratings_data():
+    return send_from_directory('static', '/static/ratings.json')

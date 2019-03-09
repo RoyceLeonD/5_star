@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>5-Star Loader Page</title>
+    <title>Royce's 5-Star Loader Page</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="main.js"></script>
@@ -13,18 +13,17 @@
         $(function(){
 
             $.getJSON('http://127.0.0.1:5000/static/data_file.json', function(data) {
-                $.each(data.ratings, function(i, f) {
-                    var ratings_row = "<tr>"+"<td>"+f["5 star"]+"</td>"+"<td>"+f["4 star"]+ "</td>"+"<td>"+f["3 star"]+"</td>"+"<td>"+f["2 star"]+"</td>"+"<td>"+ f["1 star"]+ "</td>"+ "</tr>"
-                    $(ratings_row).appendTo("#ratingdata tbody");
-                });
+                var f = data["ratings"]
+                var ratings_row = "<tr>"+"<td>"+f["5 star"]+"</td>"+"<td>"+f["4 star"]+ "</td>"+"<td>"+f["3 star"]+"</td>"+"<td>"+f["2 star"]+"</td>"+"<td>"+ f["1 star"]+ "</td>"+ "</tr>";
+                $(ratings_row).appendTo("#ratingdata tbody");
             });
         });
 
         $(function(){
 
             $.getJSON("http://127.0.0.1:5000/static/data_file.json", function(data) {
-                $.each(data.reviews, function(i, f) {
-                    var reviews_row = "<tr>"+"<td>" +f.review_author+"</td>"+"<td>"+f.review_posted_date+ "</td>"+ "<td>" +f.review_header+"</td>"+"<td>"+f.review_text+ "</td>"+ "<td>" +f.review_rating+"</td>"
+                $.each(data["reviews"], function(i, f) {
+                    var reviews_row = "<tr>"+"<td>" +f.review_author+"</td>"+"<td>"+f.review_posted_date+ "</td>"+ "<td>" +f.review_header+"</td>"+"<td>"+f.review_text+ "</td>"+ "<td>" +f.review_rating+"</td>"+"</tr>";
                     $(reviews_row).appendTo("#reviewdata tbody");
                 });
             });
@@ -34,16 +33,37 @@
 
             $.getJSON("http://127.0.0.1:5000/static/concat_data_gcnlg.json", function(data) {
                 $.each(data["entities"], function(i,f) {
-                    var entitie_row = "<tr>"+"<td>"+f.Mentions_name + "</td>"+ "<td>"+f.Salience+ "</td>"+"<td>"+f.Sentiment+ "</td>" +"</tr>"
+                    var entitie_row = "<tr>"+"<td>"+f.Mentions_name + "</td>"+ "<td>"+f.Salience+ "</td>"+"<td>"+f.Sentiment+ "</td>" +"</tr>";
                     $(entitie_row).appendTo("#entitiedata tbody");
                 });
             });
         });
-    
+
+        $(function(){
+            var total = 0
+            $.getJSON("http://127.0.0.1:5000/static/ratings.json", function(data) {
+                var ratings_row = "<tr>"+"<td>"+data.raw_rating+"</td>"+"<td>"+data.fulfillment+"</td>"+"<td>"+data.product_quality+"</td>"+"<td>"+data.service+"</td>"+"<td>"+data.usability+"</td>"+"</tr>";
+                $(ratings_row).appendTo("#buckets tbody")
+            });
+        });
     </script>
 </head>
 <body>
     <center><img aline="middle" src="/static/copper-loader.gif"></center>
+    <center><div>
+        <table id="buckets" border="2">
+            <thead>
+                <th>Raw Ratings</th>
+                <th>Fulfillment</th>
+                <th>Product Quality</th>
+                <th>Service</th>
+                <th>Usability</th>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div></center>
     <center>
     <div class="wrapper">
         <div class= "ratings">
