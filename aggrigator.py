@@ -18,7 +18,7 @@ def index_post():
     prod_ID_ASINS = request.form['text']
     ReadAsin(AddAsins(prod_ID_ASINS))
     concat()
-    stakeholder_ratings().main_stakeholder_bucketing()
+    #stakeholder_ratings().main_stakeholder_bucketing()
     if prod_ID_ASINS:
         return render_template('loader.html')
 

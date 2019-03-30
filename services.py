@@ -15,7 +15,7 @@ import random
 
 
 #Set up the enviroment for the UI, and UX
-from flask import Flask, request, render_template, url_for
+from flask import Flask, request, render_template, url_for, send_from_directory
 import os
 
 
@@ -42,6 +42,7 @@ def ParseReviews(asin):
     amazon_url  = 'http://www.amazon.com/dp/'+asin
     # Add some recent user agent to prevent amazon from blocking the request 
     # Find some chrome user agent strings  here https://udger.com/resources/ua-list/browser-detail?browser=Chrome
+    
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
     #Hcanged the following range(5) to range(20)
     for i in range(5):
@@ -334,6 +335,8 @@ class stakeholder_ratings():
         raw_rating = 0
         ranting_bank = [5,4,3,2,1]
         for i in [0,1,2,3,4]:
+            pprint(rating)
+            pprint(rating[i])
             raw_rating += ranting_bank[i]*rating[i]
 
         return raw_rating/100
