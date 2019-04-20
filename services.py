@@ -10,7 +10,7 @@ import json
 from re import sub
 from dateutil import parser as dateparser
 from time import sleep
-
+from torrequest import TorRequest
 import random
 
 
@@ -42,11 +42,50 @@ def ParseReviews(asin):
     amazon_url  = 'http://www.amazon.com/dp/'+asin
     # Add some recent user agent to prevent amazon from blocking the request 
     # Find some chrome user agent strings  here https://udger.com/resources/ua-list/browser-detail?browser=Chrome
-    
-    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
-    #Hcanged the following range(5) to range(20)
+    def randomizer():
+        header_index = random.randint(1,37)
+        headers_user_agents = {}
+        with open("user_agents.json", "r") as outfile:
+            headers_user_agents = json.load(outfile)
+            print(headers_user_agents)
+
+        headers = {'User-Agent': headers_user_agents["headers"][header_index]}
+        print(headers)
+        #headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36'}
+        #Hcanged the following range(5) to range(20)
+        proxy_number = random.randint(0,14)
+        print(proxy_number)
+        proxies_list = [
+            "105.185.176.102",
+            "223.25.97.62",
+            "110.44.122.198",
+            "5.148.128.44",
+            "177.21.103.63",
+            "196.61.16.247",
+            "109.224.57.14",
+            "110.49.11.50",	
+            "181.10.129.85",
+            "91.137.140.89",
+            "103.9.134.241",
+            "91.147.180.1",
+            "213.57.125.158",	
+            "117.239.30.251"
+        ]
+
+        proxy = proxies_list[proxy_number]
+
+        return headers, proxy
+
     for i in range(5):
-        response = get(amazon_url, headers = headers, verify=False, timeout=30)
+        headers, proxy_lnk = randomizer()
+        print(proxy_lnk)
+        proxy = {
+            'http': proxy_lnk
+        }
+        #response = get(amazon_url, headers = headers, verify=False, timeout=30, proxies=proxy)
+        tr = TorRequest(password="born1967")
+        tr.reset_identity()
+        response= tr.get(amazon_url)
         if response.status_code == 404:
             return {"url": amazon_url, "error": "page not found"}
         if response.status_code != 200:
@@ -196,7 +235,7 @@ def AddAsins(asin):
     return output
 
 def concat():
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "D:\GCkey\keyfile.json"
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "keyfile.json"
     with open('data.json', 'r') as f:
         data = json.load(f)
         

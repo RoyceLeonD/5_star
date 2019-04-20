@@ -1,1244 +1,1468 @@
 {
-    "Text": "This sweater is very cute. Its a light blue with white and the textile is really soft. Ig goes well with light wash pants and black pants!! I am loving it.This is a cute shirt, but be forewarned. It isn't a full length shirt. The material is thin, more like a t-shirt. I was tempted to send it back, but my daughter liked it. Anyway, the \"one size\" is a small. (This fits my 13-year-old, who is thin.)I've had this sweatshirt for about 6 months now, I still love it and all and its still in great condition. The only problem is that the blue fades over time so right now it looks like white with a hint of light blue.First of all everyones body is different but you coo e to expect certain standards. The tag read 35% cotton, 65@ poly, 5% spandex. This is not a cotton product. Material was thin but soft, colors are not bad. Now I am true Petite L. 146 lb, 5\u2019 tall, in size. 36/38C/D, I wanted a shirt a little oversized. Based on other reviews I sized up to an XL. Mediums are usually just ok if petite is not available. THIS SHIRT WAS WAY SHORT IN THE BODY. And ridiculously long and big in the sleeves. yet slightly snug around the bust due to the drop shoulder cut. I send it back but with my sewing machine at hand I will try to adjust it and just wear it around the house.As soon as i wash this shirt it turn in three sizes too small. the color faded. I put the sweat shirt in my bag for the poor. I hope a small child will be able to use it since the adult will not be able to use it.I'm 5\" 6' 155 pounds and usually wear a size large. I bought an extra large and it just fits. It's loose but the length of the hoodie is short. If I put my arms up you can see my undershirt. If I would've ordered my usual size L it would've been too short on me. Also there's less pink color on the front then what I liked but still a great hoodie. Thin but cute look!My tween daughter got this for her birthday, she loves the ombre coloring of it. I knew it came in Asian sizing so, always size up unless you are really petite. It's light enough for cool weather. The little Union Jack emblem is on a leather-type badge, very cute and classy.I was expecting it to be really thin and low quality but the one I got was surprisingly nice, the hooded part goes farther down than I am used to so I wanted to wear a shirt under it but you can't wear a shirt under it without looking like a goofball because the front goes farther up than the back. There was this weird super itchy tag in it on the side but you can fix that by cutting it off. This pullover is also super crinkly, but don't worry!! Hang it in the bathroom while you are taking your super duper hot shower that doesn't feel that hot to you but it definitely is and boom! No more wrinkles! It also fit a little bit smaller but to be fair, I comfortably wear extra large even though my size is a medium.",
+    "Text": "I love this Samsung J7. I couldn't afford the sticker price for the S6 or S7 (sticker shock!). Therefore; I opted for this which is scaled down in terms of processing/memory BUT it's much better quality than the phone I was using for my Boost Mobile account. I had no issues charging it or switching it over from old phone to this new phone - via my online account (I didn't have to talk to anybody to do this and it worked out just great). My hubby has the Samsung S6 which he saved/paid for upfront (no contract at Boost Mobile). Comparing my new J7 to his S6 - well; apples to oranges. His has 2 processors (a quad-core and an octa-core). This J7 has just the octa-core BUT for me is proving to be plenty of processing power along with the 2GB ROM. This was pretty comparable to the ZTE Warp Elite I've been using since January 2016 but I'd have to say that the Samsung is much faster - also that the screen response is so much better in this J7 model (even with the glass protection I placed on the screen). My hubby bought me this for my upcoming 60th birthday! GREAT present for me.....all mine! Thank you 'shopcelldeals' for selling this at a reasonable price that was affordable. Recommended.I love this phone! Coming from the galaxy S3 for Boost this is a big jump in the right direction. $20 cheaper on amazon than the boost mobile site another plus.The battery last all day. That is while talking/texting using apps. It is two times bigger than the S3 but def worth it. The operating system is much faster and more responsive as well.My wife and I updated our phones to the SAMSUNG GALAXY J-7. We enjoyed them SO MUCH, I purchased another set for us as back-up. The picture quality is EXCELLANT. !!!!!This phone is SO much better than the Galaxy S3 I had prior. Better memory (by far); Better battery life (by far!!); Better view (bigger screen); If you're looking for an affordable and pretty high-performing smart phone, this could be just what you're looking for. S3 = junk; J7 = superb, really... Two thumbs up for this one, for sure!Love...love..love this phone....phone great...battey is great..$50 cheaper than boost mobile website....nice size... I had a Samsung J3 for a month couldnt take it....that phone was slow...camera was horrible....so so glad i made the switch..I've had this phone for a year and 2 months now. So far so good. I think the camera functions are good, that mattered most to me. And the interface works well, if you are familiar with the Droid. It is a larger size phone which takes some adjustment! Occasionally it overheats but I have a cooling app. Also when the battery gets low to 15%, it goes down to 0 pretty fast. There is bloatware which was expected.. But otherwise I'm happy so far!By far one of the best Samsung phones they have made!! I broke mine and searched high and low trying to find a replacement locally but I was unable to find one. I now have an iPhone (which i Love) but if I ever got another Samsung I would definitely try getting this phone again.Great phone. Very comparable to the s6 but processing speeds are a little lower and the internal memory is short. But for the price i will not complain. 4 stars just because I'm a bit disappointed with the cameras. But it has flash on selfie mode, that's cool",
     "entities": [
         {
-            "Mentions_name": "shirt",
+            "Mentions_name": "quality",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "170",
-                    "Content": "shirt",
+                    "Begin Offset": "195",
+                    "Content": "quality",
                     "Magnitude": "0.8999999761581421",
                     "Sentiment": "0.8999999761581421",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.14760562777519226",
-            "Sentiment": "magnitude: 1.899999976158142\nscore: 0.8999999761581421\n"
+            "Salience": "0.1368238776922226",
+            "Sentiment": "magnitude: 1.899999976158142\nscore: 0.4000000059604645\n"
         },
         {
-            "Mentions_name": "sweater",
+            "Mentions_name": "Samsung",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "5",
-                    "Content": "sweater",
-                    "Magnitude": "0.8999999761581421",
-                    "Sentiment": "0.8999999761581421",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0697256475687027",
-            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
-        },
-        {
-            "Mentions_name": "sweatshirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "415",
-                    "Content": "sweatshirt",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.04852348193526268",
-            "Sentiment": "magnitude: 1.0\nscore: 0.20000000298023224\n"
-        },
-        {
-            "Mentions_name": "shirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "219",
-                    "Content": "shirt",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0473380982875824",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "t-shirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "260",
-                    "Content": "t-shirt",
-                    "Magnitude": "0.30000001192092896",
-                    "Sentiment": "0.30000001192092896",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.03699133172631264",
-            "Sentiment": "magnitude: 0.30000001192092896\nscore: 0.30000001192092896\n"
-        },
-        {
-            "Mentions_name": "light blue",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "33",
-                    "Content": "light blue",
+                    "Begin Offset": "12",
+                    "Content": "Samsung",
                     "Magnitude": "0.20000000298023224",
                     "Sentiment": "0.20000000298023224",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0307100061327219",
-            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.20000000298023224\n"
-        },
-        {
-            "Mentions_name": "material",
-            "Mention_vectors": [
+                    "Type": "1"
+                },
                 {
-                    "Begin Offset": "230",
-                    "Content": "material",
+                    "Begin Offset": "458",
+                    "Content": "Samsung",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.030299581587314606",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "Ig",
-            "Mention_vectors": [
+                    "Type": "1"
+                },
                 {
-                    "Begin Offset": "87",
-                    "Content": "Ig",
+                    "Begin Offset": "865",
+                    "Content": "Samsung",
+                    "Magnitude": "0.5",
+                    "Sentiment": "0.5",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "2174",
+                    "Content": "Samsung",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "2758",
+                    "Content": "Samsung",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "2958",
+                    "Content": "Samsung",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "1"
                 }
             ],
-            "Salience": "0.02596958912909031",
-            "Sentiment": ""
+            "Salience": "0.09073884785175323",
+            "Sentiment": "magnitude: 1.2999999523162842\nscore: 0.10000000149011612\n"
         },
         {
-            "Mentions_name": "wash pants",
+            "Mentions_name": "size phone",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "111",
-                    "Content": "wash pants",
-                    "Magnitude": "0.800000011920929",
-                    "Sentiment": "0.800000011920929",
+                    "Begin Offset": "2502",
+                    "Content": "size phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.025427432730793953",
-            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+            "Salience": "0.08738205581903458",
+            "Sentiment": "magnitude: 1.600000023841858\nscore: -0.30000001192092896\n"
         },
         {
-            "Mentions_name": "pants",
+            "Mentions_name": "S6",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "132",
-                    "Content": "pants",
+                    "Begin Offset": "68",
+                    "Content": "S6",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "466",
+                    "Content": "S6",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.07735893875360489",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "hubby",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "444",
+                    "Content": "hubby",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                },
+                {
+                    "Begin Offset": "1015",
+                    "Content": "hubby",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.06877730786800385",
+            "Sentiment": "magnitude: 0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "J7",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "20",
+                    "Content": "J7",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "647",
+                    "Content": "J7",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "946",
+                    "Content": "J7",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "1989",
+                    "Content": "J7",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.06452693045139313",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "S7",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "74",
+                    "Content": "S7",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "78",
+                    "Content": "sticker shock",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.025534454733133316",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "jump",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1269",
+                    "Content": "jump",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.022760657593607903",
+            "Sentiment": "magnitude: 0.5\nscore: -0.20000000298023224\n"
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "212",
+                    "Content": "phone",
                     "Magnitude": "0.10000000149011612",
                     "Sentiment": "0.10000000149011612",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.025427432730793953",
+            "Salience": "0.02201784774661064",
             "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
         },
         {
-            "Mentions_name": "textile",
+            "Mentions_name": "phone",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "63",
-                    "Content": "textile",
-                    "Magnitude": "0.800000011920929",
-                    "Sentiment": "0.800000011920929",
+                    "Begin Offset": "335",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.022455381229519844",
-            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+            "Salience": "0.021940521895885468",
+            "Sentiment": ""
         },
         {
-            "Mentions_name": "medium",
+            "Mentions_name": "phone",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2836",
-                    "Content": "size",
+                    "Begin Offset": "317",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.021940521895885468",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2081",
+                    "Content": "phone",
                     "Magnitude": "0.20000000298023224",
                     "Sentiment": "0.20000000298023224",
                     "Type": "2"
                 },
                 {
-                    "Begin Offset": "2846",
-                    "Content": "medium",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
+                    "Begin Offset": "3020",
+                    "Content": "phone",
+                    "Magnitude": "0.699999988079071",
+                    "Sentiment": "0.699999988079071",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.021122021600604057",
-            "Sentiment": "magnitude: 0.30000001192092896\nscore: 0.10000000149011612\n"
+            "Salience": "0.019795577973127365",
+            "Sentiment": "magnitude: 1.0\nscore: 0.5\n"
         },
         {
-            "Mentions_name": "daughter",
+            "Mentions_name": "sticker price",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "307",
-                    "Content": "daughter",
+                    "Begin Offset": "46",
+                    "Content": "sticker price",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.0167858824133873",
+            "Salience": "0.014231090433895588",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "size",
+            "Mentions_name": "processing/memory",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "343",
-                    "Content": "size",
+                    "Begin Offset": "156",
+                    "Content": "processing/memory",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.01501026377081871",
+            "Salience": "0.014160518534481525",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "size",
+            "Mentions_name": "account",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1532",
-                    "Content": "size",
+                    "Begin Offset": "250",
+                    "Content": "account",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.012919408269226551",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "account",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "357",
+                    "Content": "account",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.01287390012294054",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "terms",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "147",
+                    "Content": "terms",
                     "Magnitude": "0.10000000149011612",
                     "Sentiment": "0.10000000149011612",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.014273250475525856",
+            "Salience": "0.011351939290761948",
             "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
         },
         {
-            "Mentions_name": "shirt",
+            "Mentions_name": "anybody",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2303",
-                    "Content": "shirt",
+                    "Begin Offset": "391",
+                    "Content": "anybody",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.012010850012302399",
+            "Salience": "0.011311931535601616",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "shirt",
+            "Mentions_name": "issues",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2339",
-                    "Content": "shirt",
+                    "Begin Offset": "268",
+                    "Content": "issues",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.012010850012302399",
+            "Salience": "0.011311931535601616",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "SHIRT",
+            "Mentions_name": "price",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1028",
-                    "Content": "SHIRT",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.010701079852879047",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "problem",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "517",
-                    "Content": "problem",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.010031279176473618",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "blue.",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "612",
-                    "Content": "blue.",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.009496248327195644",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "body",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "640",
-                    "Content": "body",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.009496248327195644",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "shirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1302",
-                    "Content": "shirt",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.00944516807794571",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "sweat shirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1369",
-                    "Content": "sweat shirt",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.009434607811272144",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "shirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "897",
-                    "Content": "shirt",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.009368419647216797",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "standards",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "690",
-                    "Content": "standards",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.009091516956686974",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "front",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2398",
-                    "Content": "front",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.008692269213497639",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "sizes",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1325",
-                    "Content": "sizes",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.008427195250988007",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "size",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "870",
-                    "Content": "size",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.00836580153554678",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "still",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "482",
-                    "Content": "still",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.008352436125278473",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "condition",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "497",
-                    "Content": "condition",
+                    "Begin Offset": "1161",
+                    "Content": "price",
                     "Magnitude": "0.8999999761581421",
                     "Sentiment": "0.8999999761581421",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.008352436125278473",
-            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+            "Salience": "0.010268403217196465",
+            "Sentiment": "magnitude: 1.899999976158142\nscore: 0.8999999761581421\n"
         },
         {
-            "Mentions_name": "hint",
+            "Mentions_name": "Boost Mobile",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "598",
-                    "Content": "hint",
-                    "Magnitude": "0.6000000238418579",
-                    "Sentiment": "0.6000000238418579",
+                    "Begin Offset": "237",
+                    "Content": "Boost Mobile",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "517",
+                    "Content": "Boost Mobile",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.010003490373492241",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "bloatware",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2673",
+                    "Content": "bloatware",
+                    "Magnitude": "0.20000000298023224",
+                    "Sentiment": "-0.20000000298023224",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.008341619744896889",
-            "Sentiment": "magnitude: 0.6000000238418579\nscore: 0.6000000238418579\n"
+            "Salience": "0.008031834848225117",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.10000000149011612\n"
         },
         {
-            "Mentions_name": "e",
+            "Mentions_name": "def",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "670",
-                    "Content": "e",
+                    "Begin Offset": "1467",
+                    "Content": "def",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.007336694747209549",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "J7",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "549",
+                    "Content": "J7",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.006683588959276676",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1717",
+                    "Content": "phone",
                     "Magnitude": "0.800000011920929",
                     "Sentiment": "0.800000011920929",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.008341619744896889",
+            "Salience": "0.006151329260319471",
             "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
         },
         {
-            "Mentions_name": "fades",
+            "Mentions_name": "phone",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "542",
-                    "Content": "fades",
+                    "Begin Offset": "1212",
+                    "Content": "phone",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005890782922506332",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "S6",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "559",
+                    "Content": "S6",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.008138937875628471",
+            "Salience": "0.005714671220630407",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "cotton",
+            "Mentions_name": "processors",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "718",
-                    "Content": "cotton",
+                    "Begin Offset": "599",
+                    "Content": "processors",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.008083747699856758",
+            "Salience": "0.005703850649297237",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "shower",
+            "Mentions_name": "phones",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2651",
-                    "Content": "shower",
+                    "Begin Offset": "1571",
+                    "Content": "phones",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005585691425949335",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "quad-core",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "613",
+                    "Content": "quad-core",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005311128217726946",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "plenty",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "701",
+                    "Content": "plenty",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005236205644905567",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "smart phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1921",
+                    "Content": "smart phone",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.005112381186336279",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "iPhone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2910",
+                    "Content": "iPhone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.004406834486871958",
+            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "contract",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "505",
+                    "Content": "contract",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0042729126289486885",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "apples",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "570",
+                    "Content": "apples",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004263340495526791",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "oranges",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "580",
+                    "Content": "oranges",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004263340495526791",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "2GB ROM",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "743",
+                    "Content": "2GB ROM",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004248280078172684",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "processing power",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "711",
+                    "Content": "processing power",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.004248280078172684",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "Boost",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1249",
+                    "Content": "Boost",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003862626850605011",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "galaxy S3",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1235",
+                    "Content": "galaxy S3",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003862626850605011",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "battery",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1364",
+                    "Content": "battery",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0038593497592955828",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phones",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2766",
+                    "Content": "phones",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0038334871642291546",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "picture quality",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1677",
+                    "Content": "picture quality",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0036037731915712357",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "screen",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1003",
+                    "Content": "screen",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0035719124134629965",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "operating system",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1485",
+                    "Content": "operating system",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.003454564604908228",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "screen response",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "904",
+                    "Content": "screen response",
                     "Magnitude": "0.5",
                     "Sentiment": "0.5",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.008030622266232967",
-            "Sentiment": "magnitude: 0.6000000238418579\nscore: 0.30000001192092896\n"
+            "Salience": "0.0034415461122989655",
+            "Sentiment": "magnitude: 0.5\nscore: 0.5\n"
         },
         {
-            "Mentions_name": "size",
+            "Mentions_name": "screen",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1714",
-                    "Content": "size",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.007704701740294695",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "part",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2240",
-                    "Content": "part",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.007635253015905619",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "color",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1346",
-                    "Content": "color",
-                    "Magnitude": "0.699999988079071",
-                    "Sentiment": "-0.699999988079071",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0075631882064044476",
-            "Sentiment": "magnitude: 0.699999988079071\nscore: -0.699999988079071\n"
-        },
-        {
-            "Mentions_name": "colors",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "806",
-                    "Content": "colors",
+                    "Begin Offset": "1849",
+                    "Content": "screen",
                     "Magnitude": "0.4000000059604645",
                     "Sentiment": "0.4000000059604645",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.007336501032114029",
+            "Salience": "0.003281425451859832",
             "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
         },
         {
-            "Mentions_name": "Material",
+            "Mentions_name": "memory",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "778",
-                    "Content": "Material",
-                    "Magnitude": "0.4000000059604645",
-                    "Sentiment": "0.4000000059604645",
+                    "Begin Offset": "1780",
+                    "Content": "memory",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.007221759296953678",
-            "Sentiment": "magnitude: 0.4000000059604645\nscore: 0.4000000059604645\n"
+            "Salience": "0.003281425451859832",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
         },
         {
-            "Mentions_name": "cotton product",
+            "Mentions_name": "model",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "762",
-                    "Content": "cotton product",
+                    "Begin Offset": "949",
+                    "Content": "model",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.007180828135460615",
+            "Salience": "0.0032578527461737394",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "length",
+            "Mentions_name": "apps",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1605",
-                    "Content": "length",
+                    "Begin Offset": "1422",
+                    "Content": "apps",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0029120934195816517",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "direction",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1287",
+                    "Content": "direction",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.007072899024933577",
+            "Salience": "0.002881206339225173",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "BODY",
+            "Mentions_name": "site",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1055",
-                    "Content": "BODY",
+                    "Begin Offset": "1342",
+                    "Content": "site",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.00643901526927948",
+            "Salience": "0.00287876115180552",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "tag",
+            "Mentions_name": "plus.",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "705",
-                    "Content": "tag",
+                    "Begin Offset": "1355",
+                    "Content": "plus.",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.006398934870958328",
+            "Salience": "0.00287876115180552",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "child",
+            "Mentions_name": "amazon",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1420",
-                    "Content": "child",
+                    "Begin Offset": "1313",
+                    "Content": "amazon",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.006373615004122257",
+            "Salience": "0.00287876115180552",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "adult",
+            "Mentions_name": "times",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1459",
-                    "Content": "adult",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "-0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.006373615004122257",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "tween daughter",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1863",
-                    "Content": "tween daughter",
+                    "Begin Offset": "1438",
+                    "Content": "times",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.006335351150482893",
-            "Sentiment": "magnitude: 0.10000000149011612\n"
+            "Salience": "0.002874330384656787",
+            "Sentiment": ""
         },
         {
-            "Mentions_name": "Mediums",
+            "Mentions_name": "wife",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "967",
-                    "Content": "Mediums",
+                    "Begin Offset": "1548",
+                    "Content": "wife",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0028723091818392277",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "set",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1650",
+                    "Content": "set",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002870398573577404",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "glass",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "970",
+                    "Content": "glass",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.00286148302257061",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "protection",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "976",
+                    "Content": "protection",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.00286148302257061",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "mine",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1096",
+                    "Content": "mine",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0028544249944388866",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "shopcelldeals",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1113",
+                    "Content": "shopcelldeals",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002851370256394148",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3002",
+                    "Content": "phone",
                     "Magnitude": "0.30000001192092896",
                     "Sentiment": "0.30000001192092896",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.006210049614310265",
+            "Salience": "0.002681037876754999",
             "Sentiment": "magnitude: 0.30000001192092896\nscore: 0.30000001192092896\n"
         },
         {
-            "Mentions_name": "hoodie",
+            "Mentions_name": "battery",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1619",
-                    "Content": "hoodie",
+                    "Begin Offset": "2608",
+                    "Content": "battery",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0026443172246217728",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "back-up",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1664",
+                    "Content": "back-up",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.005880990531295538",
+            "Salience": "0.0026334691792726517",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "sleeves",
+            "Mentions_name": "battery life",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1098",
-                    "Content": "sleeves",
+                    "Begin Offset": "1804",
+                    "Content": "battery life",
+                    "Magnitude": "0.5",
+                    "Sentiment": "0.5",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002628721995279193",
+            "Sentiment": "magnitude: 0.5\nscore: 0.5\n"
+        },
+        {
+            "Mentions_name": "view",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1836",
+                    "Content": "view",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.002628721995279193",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "junk",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1983",
+                    "Content": "junk",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0026272842660546303",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "Recommended.",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1188",
+                    "Content": "Recommended.",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "0.10000000149011612",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.00262191379442811",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "Galaxy S3",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1460",
+                    "Content": "S3",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "1750",
+                    "Content": "Galaxy S3",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                },
+                {
+                    "Begin Offset": "1978",
+                    "Content": "S3",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0026006638072431087",
+            "Sentiment": "magnitude: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "adjustment",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2530",
+                    "Content": "adjustment",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.005651948973536491",
+            "Salience": "0.0022600768133997917",
             "Sentiment": ""
-        },
-        {
-            "Mentions_name": "drop shoulder cut",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1152",
-                    "Content": "drop shoulder cut",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005648382939398289",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "bust",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1136",
-                    "Content": "bust",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005648382939398289",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "sewing machine",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1198",
-                    "Content": "sewing machine",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005644992925226688",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "hand",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1216",
-                    "Content": "hand",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005644992925226688",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "bag",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1387",
-                    "Content": "bag",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005638677626848221",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "spandex",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "739",
-                    "Content": "spandex",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005620500538498163",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "reviews",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "938",
-                    "Content": "reviews",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005594646092504263",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "XL",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "963",
-                    "Content": "XL",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005594646092504263",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "undershirt",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1671",
-                    "Content": "undershirt",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005490757990628481",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "poor",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1399",
-                    "Content": "poor",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005173301789909601",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "arms",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1648",
-                    "Content": "arms",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.005163104273378849",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "tag",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2468",
-                    "Content": "tag",
-                    "Magnitude": "0.8999999761581421",
-                    "Sentiment": "-0.8999999761581421",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.004995080176740885",
-            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.8999999761581421\n"
         },
         {
             "Mentions_name": "one",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2196",
+                    "Begin Offset": "2742",
                     "Content": "one",
-                    "Magnitude": "0.20000000298023224",
-                    "Sentiment": "0.20000000298023224",
+                    "Magnitude": "0.6000000238418579",
+                    "Sentiment": "0.6000000238418579",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.004388895817101002",
-            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.20000000298023224\n"
+            "Salience": "0.002243802649900317",
+            "Sentiment": "magnitude: 0.6000000238418579\nscore: 0.6000000238418579\n"
         },
         {
-            "Mentions_name": "back",
+            "Mentions_name": "camera functions",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2368",
+                    "Content": "camera functions",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0021584718488156796",
+            "Sentiment": "magnitude: 1.0\nscore: 0.5\n"
+        },
+        {
+            "Mentions_name": "replacement",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2846",
+                    "Content": "replacement",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0021472848020493984",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "memory",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3111",
+                    "Content": "memory",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0020685347262769938",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "EXCELLANT",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "1696",
+                    "Content": "EXCELLANT",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0019893497228622437",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "interface",
             "Mention_vectors": [
                 {
                     "Begin Offset": "2429",
-                    "Content": "back",
+                    "Content": "interface",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001974718412384391",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "cooling app",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2581",
+                    "Content": "cooling app",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.003880613250657916",
+            "Salience": "0.0019489023834466934",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "goofball",
+            "Mentions_name": "phone",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2377",
-                    "Content": "goofball",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.003880613250657916",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "quality",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2180",
-                    "Content": "quality",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.003880613250657916",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "leather-type badge",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2094",
-                    "Content": "leather-type badge",
-                    "Magnitude": "0.20000000298023224",
-                    "Sentiment": "0.20000000298023224",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.003880613250657916",
-            "Sentiment": "magnitude: 0.20000000298023224\nscore: 0.20000000298023224\n"
-        },
-        {
-            "Mentions_name": "house.As",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1273",
-                    "Content": "house.As",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "1"
-                }
-            ],
-            "Salience": "0.003335994901135564",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "@ poly",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "728",
-                    "Content": "@ poly",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "1"
-                }
-            ],
-            "Salience": "0.0033215144649147987",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "Petite L.",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "840",
-                    "Content": "Petite L.",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "1"
-                }
-            ],
-            "Salience": "0.0033116682898253202",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "38C/D",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "879",
-                    "Content": "38C/D",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "1"
-                }
-            ],
-            "Salience": "0.003308856626972556",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "pullover",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2535",
-                    "Content": "pullover",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0032639300916343927",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "color",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1778",
-                    "Content": "color",
+                    "Begin Offset": "2221",
+                    "Content": "phone",
                     "Magnitude": "0.8999999761581421",
                     "Sentiment": "-0.8999999761581421",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.002747577615082264",
+            "Salience": "0.0019073145231232047",
             "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.8999999761581421\n"
         },
         {
-            "Mentions_name": "side",
+            "Mentions_name": "phone",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2485",
-                    "Content": "side",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "-0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.002714538248255849",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "boom",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2717",
-                    "Content": "boom",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0027126288041472435",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "bathroom",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2600",
-                    "Content": "bathroom",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0027126288041472435",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "wrinkles",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2731",
-                    "Content": "wrinkles",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.002711713779717684",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "bit",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2762",
-                    "Content": "bit",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.002710823668166995",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "look",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1855",
-                    "Content": "look",
+                    "Begin Offset": "2072",
+                    "Content": "phone",
                     "Magnitude": "0.8999999761581421",
                     "Sentiment": "0.8999999761581421",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.0026525971479713917",
+            "Salience": "0.001794355222955346",
             "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
         },
         {
-            "Mentions_name": "ombre coloring",
+            "Mentions_name": "price",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1919",
-                    "Content": "ombre coloring",
-                    "Magnitude": "0.8999999761581421",
-                    "Sentiment": "0.8999999761581421",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.002428276464343071",
-            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
-        },
-        {
-            "Mentions_name": "emblem",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2079",
-                    "Content": "emblem",
+                    "Begin Offset": "3140",
+                    "Content": "price",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.002045823261141777",
+            "Salience": "0.0017191781662404537",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "front",
+            "Mentions_name": "cameras",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1791",
-                    "Content": "front",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
+                    "Begin Offset": "3220",
+                    "Content": "cameras",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
                     "Type": "2"
                 }
             ],
-            "Salience": "0.0019396337447687984",
-            "Sentiment": ""
+            "Salience": "0.0017186137847602367",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
         },
         {
-            "Mentions_name": "hoodie",
+            "Mentions_name": "SAMSUNG GALAXY J-7",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "1833",
-                    "Content": "hoodie",
-                    "Magnitude": "0.10000000149011612",
-                    "Sentiment": "-0.10000000149011612",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0019396337447687984",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
-        },
-        {
-            "Mentions_name": "birthday",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1895",
-                    "Content": "birthday",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.001702789799310267",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "sizing",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1965",
-                    "Content": "sizing",
-                    "Magnitude": "0.0",
-                    "Sentiment": "0.0",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0017021024832502007",
-            "Sentiment": ""
-        },
-        {
-            "Mentions_name": "weather",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "2048",
-                    "Content": "weather",
-                    "Magnitude": "0.8999999761581421",
-                    "Sentiment": "0.8999999761581421",
-                    "Type": "2"
-                }
-            ],
-            "Salience": "0.0017014371696859598",
-            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
-        },
-        {
-            "Mentions_name": "Asian",
-            "Mention_vectors": [
-                {
-                    "Begin Offset": "1959",
-                    "Content": "Asian",
+                    "Begin Offset": "1585",
+                    "Content": "SAMSUNG GALAXY J-7",
                     "Magnitude": "0.0",
                     "Sentiment": "0.0",
                     "Type": "1"
                 }
             ],
-            "Salience": "0.001005575992166996",
+            "Salience": "0.0016973468009382486",
             "Sentiment": ""
         },
         {
-            "Mentions_name": "Union Jack",
+            "Mentions_name": "well.My",
             "Mention_vectors": [
                 {
-                    "Begin Offset": "2068",
-                    "Content": "Union Jack",
+                    "Begin Offset": "1540",
+                    "Content": "well.My",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0016973468009382486",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "ZTE Warp Elite",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "786",
+                    "Content": "ZTE Warp Elite",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.001690946752205491",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "phone",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2305",
+                    "Content": "phone",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001686386181972921",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "selfie mode",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3249",
+                    "Content": "selfie mode",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0015669198473915458",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "battey",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2095",
+                    "Content": "battey",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0013985470868647099",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "processing speeds",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3057",
+                    "Content": "processing speeds",
+                    "Magnitude": "0.10000000149011612",
+                    "Sentiment": "-0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0013775430852547288",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: -0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "stars",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3169",
+                    "Content": "stars",
+                    "Magnitude": "0.30000001192092896",
+                    "Sentiment": "-0.30000001192092896",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0013766263145953417",
+            "Sentiment": "magnitude: 0.30000001192092896\nscore: -0.30000001192092896\n"
+        },
+        {
+            "Mentions_name": "flash",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "3240",
+                    "Content": "flash",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001376186148263514",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "camera",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2238",
+                    "Content": "camera",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "-0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.001223764382302761",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: -0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "Droid",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2480",
+                    "Content": "Droid",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "1"
+                }
+            ],
+            "Salience": "0.0011667887447401881",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "love",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2056",
+                    "Content": "love",
+                    "Magnitude": "0.800000011920929",
+                    "Sentiment": "0.800000011920929",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0009872769005596638",
+            "Sentiment": "magnitude: 0.800000011920929\nscore: 0.800000011920929\n"
+        },
+        {
+            "Mentions_name": "size",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2158",
+                    "Content": "size",
+                    "Magnitude": "0.8999999761581421",
+                    "Sentiment": "0.8999999761581421",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0009872769005596638",
+            "Sentiment": "magnitude: 0.8999999761581421\nscore: 0.8999999761581421\n"
+        },
+        {
+            "Mentions_name": "website",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2142",
+                    "Content": "website",
                     "Magnitude": "0.10000000149011612",
                     "Sentiment": "0.10000000149011612",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0008670802344568074",
+            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+        },
+        {
+            "Mentions_name": "switch",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2283",
+                    "Content": "switch",
+                    "Magnitude": "0.0",
+                    "Sentiment": "0.0",
+                    "Type": "2"
+                }
+            ],
+            "Salience": "0.0008666444336995482",
+            "Sentiment": ""
+        },
+        {
+            "Mentions_name": "J3",
+            "Mention_vectors": [
+                {
+                    "Begin Offset": "2182",
+                    "Content": "J3",
+                    "Magnitude": "0.4000000059604645",
+                    "Sentiment": "-0.4000000059604645",
                     "Type": "1"
                 }
             ],
-            "Salience": "0.0010048019466921687",
-            "Sentiment": "magnitude: 0.10000000149011612\nscore: 0.10000000149011612\n"
+            "Salience": "0.0007593077607452869",
+            "Sentiment": "magnitude: 0.4000000059604645\nscore: -0.4000000059604645\n"
         }
     ]
 }
